@@ -1,0 +1,44 @@
+BOXES in 0:
+9 
+room_weight: 9
+left balance: 1
+right balance: 24
+
+--------------------------------------------
+BOXES in 1:
+8 
+room_weight: 8
+left balance: 2
+right balance: 1
+
+--------------------------------------------
+BOXES in 3:
+1 2 3 
+room_weight: 6
+left balance: 0
+right balance: 0
+
+--------------------------------------------
+BOXES in 4:
+7 
+room_weight: 7
+left balance: 0
+right balance: 0
+
+--------------------------------------------
+BOXES in 2:
+33 
+room_weight: 33
+left balance: 0
+right balance: 0
+
+--------------------------------------------
+BOXES in 5:
+11 22 
+room_weight: 33
+left balance: 0
+right balance: 0
+
+--------------------------------------------
+end of iteration-----------------340--------
+balancer: 28
